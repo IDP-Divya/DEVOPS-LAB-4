@@ -1,0 +1,15 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .terraform/plugins/linux_amd64/lock.json
+#	new file:   .terraform/plugins/linux_amd64/terraform-provider-docker_v2.7.2_x4
+#	new file:   main.tf
+#	new file:   terraform.tfstate
+#	new file:   terraform.tfstate.backup
+#
